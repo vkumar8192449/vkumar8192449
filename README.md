@@ -1,7 +1,7 @@
-<!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
+[![MasterHead](/github-header-image.png)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate MERN stack developer based in India.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Vinay Kumar</h1> -->
+<!-- <h3 align="center">A passionate MERN stack developer based in India.</h3> -->
 <img align="right" alt="Coding" width="400" src="../../vinay/Downloads/UI-Developer-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkumar8192449&label=Profile%20views&color=d60505&style=flat" alt="vkumar8192449" /> </p>
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkumar8192449&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vkumar8192449" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkumar8192449&show_icons=true&theme=tokyonight&locale=en" alt="vkumar8192449" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkumar8192449&&theme=tokyonight" alt="vkumar8192449" /></p>
