@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate MERN stack developer based in India.</h3>
-<img align="right" alt="Coding" width="400" src="../../vinay/Downloads/UI-Developer-unscreen.gif">
+<img align="right" alt="Coding" width="400" src="/UI-Developer-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkumar8192449&label=Profile%20views&color=d60505&style=flat" alt="vkumar8192449" /> </p>
 
