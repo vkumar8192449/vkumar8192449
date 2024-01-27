@@ -44,7 +44,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vkumar8192449&show_icons=true&theme=tokyonight&locale=en)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vkumar8192449&show_icons=true&theme=tokyonight&locale=en)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=vkumar8192449&show_icons=true&locale=en&layout=compact&theme=tokyonight)<br/>
 
