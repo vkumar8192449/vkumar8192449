@@ -4,7 +4,7 @@
 <!-- <h3 align="center">A passionate MERN stack developer based in India.</h3> -->
 <img align="right" alt="Coding" width="400" src="/UI-Developer-unscreen.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkumar8192449&label=Profile%20views&color=d60505&style=flat" alt="vkumar8192449" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkumar8192449&label=Profile%20views&color=blueviolet&style=flat" alt="vkumar8192449" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkumar8192449" alt="vkumar8192449" /></a> </p> -->
 
@@ -44,8 +44,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vkumar8192449&show_icons=true&theme=tokyonight&locale=en)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=vkumar8192449&show_icons=true&locale=en&layout=compact&theme=tokyonight)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vkumar8192449&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 
-![](https://github-contributor-stats.vercel.app/api?username=vkumar8192449&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkumar8192449&theme=tokyonight" alt="vkumar8192449" height="200px"/></a>
+<br/>
+
+
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=vkumar8192449&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/></p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="vkumar8192449's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vkumar8192449&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vkumar8192449&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="vkumar8192449" height="230px"/>
+<br/>
